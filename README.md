@@ -4,3 +4,5 @@
 - [mongoose]('')
 - [express]('')
 - [nodemon]('')
+- [multer]('')
+- [sharp]('')
